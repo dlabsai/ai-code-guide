@@ -5,6 +5,12 @@ Having a knowledge of JS, Angular and React I didn't touch vue3. With help of ch
 
 Let's start
 
+# Results
+
+* The app was finished,
+* all tasks were completed before end of deadline,
+* and most importantly, client was happy with the results (and the pace of development)
+
 # Prompt
 
 Person: 
